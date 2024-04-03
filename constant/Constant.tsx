@@ -44,12 +44,12 @@ export const homeImagesSlider = [
 export const homePageEL1 = {
   title: "What's Your Vibe?",
   images: [
-    {
-      img: home_1_Img,
-      titleImg: "Shop Kurtas",
-      par: "Look Trending",
-      cat: "Men's Kurta",
-    },
+    // {
+    //   img: home_1_Img,
+    //   titleImg: "Shop Kurtas",
+    //   par: "Look Trending",
+    //   cat: "Men's Kurta",
+    // },
     {
       img: home_2_Img,
       titleImg: "Shop Jackets",
